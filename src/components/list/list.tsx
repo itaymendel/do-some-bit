@@ -1,5 +1,5 @@
 import * as React from 'react';
-import {noop} from '../../utils/noop';
+import noop from '../../utils/noop';
 import {Item} from '../item';
 
 export class List extends React.Component {
