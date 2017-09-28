@@ -1,1 +1,1 @@
-export default (): void => {};
+export function noop(): void {};
