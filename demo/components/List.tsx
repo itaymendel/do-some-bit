@@ -1,5 +1,5 @@
 import * as React from 'react';
-import {List} from '../../src';
+const List = require('bit/layout/list');
 
 export class ListDemo extends React.Component<{}, {}> {
     public render() {

@@ -1,6 +1,6 @@
 import * as React from 'react';
 import {ClientRenderer, expect} from 'test-drive-react';
-import {List} from '../../src';
+import {List} from '../../src/components/list';
 
 describe('<List/>', function() {
     const clientRenderer = new ClientRenderer();
